@@ -104,6 +104,8 @@
 
 @media (max-width: 600px) {
         .column {flex: 100%;}
+        .video {position:relative;
+        left: 5%;}
         }
 
 .bot{ 
